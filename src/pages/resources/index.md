@@ -1,0 +1,13 @@
+---
+templateKey: 'about-page'
+path: /resources
+title: Resources
+---
+
+## Zero Waste organization
+
+## Zero waste decal
+
+## Cal Recycle
+
+Zero Waste Coalition page on the Office of Sustainability website, the SERC website, Sustainable Berkeley Lab up at LBNL, the Ecology Center, and the Cal Zero Waste webpages!
