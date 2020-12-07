@@ -50,8 +50,8 @@ export default class Index extends React.Component {
             <div className="content">
             <h1>Cal Recycle Data</h1>
             <p>
-              This visualization shows the amount of electronic waste produced per county in California based on Cal Recycle's estimates.
-              <a href="/bibliography">  Source</a>
+              This visualization shows the amount of electronic waste produced per county in California based on data collected by CalRecycle.
+              <a href="/bibliography"> [4]</a>
             </p>
               <iframe id="igraph" scrolling="no" seamless="seamless" src="https://chart-studio.plotly.com/~matthew-y-dong/202.embed" height="525" width="100%"></iframe>
               </div>
