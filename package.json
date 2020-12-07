@@ -1,6 +1,6 @@
 {
-  "name": "E-waste Site",
-  "description": "ESPM50 Final Project",
+  "name": "e-waste-site",
+  "description": "ESPM 50 Final Project",
   "dependencies": {
     "bulma": "^0.9.0",
     "gatsby": "^2.20.35",
