@@ -6,7 +6,7 @@ title: Policy
 
 ## Background
 
-There is no U.S. federal law that requires the recycling of electronic waste so states are left to come up with their own initiatives and programs.   Only 26 states have passed electronic recycling legislation but they vary in the type of approach (producer or consumer responsibility) and level of enforcement, and thus state e-waste programs vary in their level of effectiveness (measured in collection volume).
+There is no U.S. federal law that requires the recycling of electronic waste so states are left to come up with their own initiatives and programs.  26 states have passed electronic recycling legislation but they vary in the type of approach (producer or consumer responsibility) and level of enforcement, and thus state e-waste programs vary in their level of effectiveness (measured in collection volume).
 
 ## Potential interventions
 
