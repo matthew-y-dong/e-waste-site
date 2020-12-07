@@ -48,13 +48,19 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-            <h1>Cal Recycle Data</h1>
-            <p>
-              This visualization shows the amount of electronic waste produced per county in California based on data collected by CalRecycle.
-              <a href="/bibliography"> [4]</a>
-            </p>
+              <h1>Cal Recycle Data</h1>
+              <p>
+                This visualization shows the amount of electronic waste produced per county in California based on data collected by CalRecycle.
+                <a href="/bibliography"> [4]</a>  Electric waste categories tracked by Cal Recycle include:
+              </p>
+              <ul>
+                <li>Brown Goods: generally larger, non-portable electronic goods that have some circuitry. Examples include microwaves, stereos, VCRs, DVD players, large radios, and audio/visual equipment. Does not include items with video display devices.</li>
+                <li>Video Display Devices: items with video displays larger than 4 inches that may or may not have a cathode ray tube (CRT), that are not included in the Other Small Consumer Electronics category. Includes televisions, computer monitors, and other items containing a cathode ray tube (CRT), portable DVD players, tablet computers (like the iPad and Kindle Fire), laptop computers, and non-CRT televisions (such as LCD televisions). The device is primarily intended to display moving video, perform computing functions, or view web content.</li>
+                <li>Computer-related Electronics: electronics with large circuitry that is computer-related, not including monitors. Examples include processors, keyboards, printers, fax machines, mice, disk drives, and modems.</li>
+                <li>Small Consumer Electronics: portable non-computer-related electronics with large circuitry. Examples include personal digital assistants (PDAs), cell phones (including those with a screen larger than 4 inches), phone systems, phone answering machines, portable electronic book readers (like Kindles and Nooks) and other devices for reading static text, computer games and other electronic toys, portable CD players, camcorders, digital cameras, cell phone chargers and other electronic device chargers, and other electronic devices.</li>
+              </ul>
               <iframe id="igraph" scrolling="no" seamless="seamless" src="https://chart-studio.plotly.com/~matthew-y-dong/202.embed?show_link=false" height="525" width="100%"></iframe>
-              </div>
+            </div>
             </div>
         </section>
       </Layout>
