@@ -53,7 +53,7 @@ export default class Index extends React.Component {
               This visualization shows the amount of electronic waste produced per county in California based on data collected by CalRecycle.
               <a href="/bibliography"> [4]</a>
             </p>
-              <iframe id="igraph" scrolling="no" seamless="seamless" src="https://chart-studio.plotly.com/~matthew-y-dong/202.embed" height="525" width="100%"></iframe>
+              <iframe id="igraph" scrolling="no" seamless="seamless" src="https://chart-studio.plotly.com/~matthew-y-dong/202.embed?show_link=false" height="525" width="100%"></iframe>
               </div>
             </div>
         </section>
