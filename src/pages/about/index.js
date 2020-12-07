@@ -23,10 +23,12 @@ export default class Index extends React.Component {
                 <p>
                 This visualization depicts the life cycle analysis (LCA) of a mobile phone. In the modern technological age, smartphones are no longer cost prohibitive and are used by individuals across all income levels and throughout both developed and developing countries. With over 5 billion cell phones in existence, they are the ideal use case to illustrate the importance of electronic recycling since they are so prevalent and chances are people own one. Depicting a life cycle analysis of a particular product on the website is useful because electronic devices are especially resource intensive to produce and an LCA helps us quantify what the exact cost of a product is, both in terms of cost and environmental impact. The visualization shows the life cycle of a cell phone starting from raw material extraction, manufacturing, distribution, use, recycling, and final disposal and helps the reader understand why electronic recycling is so important by tying it back to something personal and hopefully brings them to consider the consequences of simply landfilling electronic devices in general.
                 </p>
-                <figure className="center">
-                  <img src={PhoneLCA}/>
-                  <figcaption>Source: <a href="https://lah.elearningontario.ca/CMS/public/exported_courses/CGW4U/exported/CGW4UU4/CGW4UU4/CGW4UU4A6/_content.html">elearningontario.ca</a></figcaption>
-                </figure>
+                <div class="outer">
+                  <figure>
+                    <img src={PhoneLCA}/>
+                    <figcaption>Source: <a href="https://lah.elearningontario.ca/CMS/public/exported_courses/CGW4U/exported/CGW4UU4/CGW4UU4/CGW4UU4A6/_content.html">elearningontario.ca</a></figcaption>
+                  </figure>
+                </div>
                 {/* <img src={PhoneMaterial} className="about-image"/> */}
                 {/* <img src={MetalUsage} width="1000" height="1000"/> */}
                 {/* <img src={PhoneMaterial} style={{ width: 'auto', height: '600px' }}/> */}
