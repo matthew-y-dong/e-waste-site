@@ -9,7 +9,7 @@ mainpitch:
   description: >
     Electronics have become a prevalent portion of our everyday lives in the modern technological era.  However, few of the many devices that consumers purchase in the US are properly recycled for various reasons such as lack of convenient recycling options, lack of education regarding e-waste, and general throwaway culture.  
     E-waste is an issue because electronics are resource intensive goods and often parts of devices that are landfilled could be recovered and reused - saving energy needed to mine new metals or produce more plastics.  Furthermore hazardous materials in electronic products threaten both human and environmental health.  
-    This website explores the current established electronic waste programs in CA and analyzes their effectiveness and offers policy changes for their improvement. 
+    This website explores the current trends of electronic good usage along with research on electronic waste policies and end-of-life recycling practices.
 description: >-
   ...
 intro:
