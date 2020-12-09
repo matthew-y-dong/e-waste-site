@@ -4,7 +4,7 @@ path: /bibliography
 title: Bibliography
 ---
 
-### Research papers
+### Papers and public notices
 
 1. Barath Raghavan and Justin Ma. 2011. The energy and emergy of the internet. In Proceedings of the 10th ACM Workshop on Hot Topics in Networks (HotNets-X). Association for Computing Machinery, New York, NY, USA, Article 9, 1–6. DOI:[https://doi.org/10.1145/2070562.2070571](https://doi.org/10.1145/2070562.2070571)
 2. California, State of. Public Notice: 2020 Covered Electronic Waste Recovery and Recycling Payment Rates, CalRecycle, 19 May 2020, www2.calrecycle.ca.gov/PublicNotices/Details/4007.
