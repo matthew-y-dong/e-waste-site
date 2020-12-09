@@ -4,7 +4,7 @@ path: /bibliography
 title: Bibliography
 ---
 
-### Papers and public notices
+### References
 
 1. Barath Raghavan and Justin Ma. 2011. The energy and emergy of the internet. In Proceedings of the 10th ACM Workshop on Hot Topics in Networks (HotNets-X). Association for Computing Machinery, New York, NY, USA, Article 9, 1–6. DOI:[https://doi.org/10.1145/2070562.2070571](https://doi.org/10.1145/2070562.2070571)
 2. California, State of. Public Notice: 2020 Covered Electronic Waste Recovery and Recycling Payment Rates, CalRecycle, 19 May 2020, www2.calrecycle.ca.gov/PublicNotices/Details/4007.
@@ -14,8 +14,6 @@ title: Bibliography
 
 ### Data sources
 
-6. [CalRecycle](https://www2.calrecycle.ca.gov/WasteCharacterization/ResidentialStreams)
-    - This page displays estimated residential disposed waste composition by material type and stream for the specified California jurisdiction (county). Single family tons and multifamily tons add to give total residential tons. Percents show the proportion each material contributes to each stream.
+6. [CalRecycle](https://www2.calrecycle.ca.gov/WasteCharacterization/ResidentialStreams) - This page displays estimated residential disposed waste composition by material type and stream for the specified California jurisdiction (county). Single family tons and multifamily tons add to give total residential tons. Percents show the proportion each material contributes to each stream.
 
-7. [National Minerals Information Center](https://www.usgs.gov/centers/nmic/historical-global-statistics-mineral-and-material-commodities)
-    - The U.S. Geological Survey (USGS) provides information on the current use and flow of minerals and mineral-based materials in the U.S. and world economies. This Data Series report on “Historical Global Statistics for Mineral and Material Commodities” contains information on the production of selected commodities from 1990 to the most current year. The data may be used in the analysis of socioeconomic developments and trends and in the study of environmental issues associated with the extraction and processing of the selected commodities.
+7. [National Minerals Information Center](https://www.usgs.gov/centers/nmic/historical-global-statistics-mineral-and-material-commodities) - The U.S. Geological Survey (USGS) provides information on the current use and flow of minerals and mineral-based materials in the U.S. and world economies. This Data Series report on “Historical Global Statistics for Mineral and Material Commodities” contains information on the production of selected commodities from 1990 to the most current year. The data may be used in the analysis of socioeconomic developments and trends and in the study of environmental issues associated with the extraction and processing of the selected commodities.
