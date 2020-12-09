@@ -4,7 +4,7 @@ path: /resources
 title: Resources
 ---
 
-### General e-waste resources
+### General e-waste resources and organizations
 
 #### [Berkeley Community Conservation Centers](http://berkeleyrecycling.org/index.php)
 
@@ -20,9 +20,13 @@ Many components of electronic equipment--including metals, plastic, and glass--c
 
 - Recycling guide: https://ecologycenter.org/recycling/
 
-#### [LBL Sustainable Berkeley Lab](https://sbl.lbl.gov/)
+#### [Californians Against Waste](https://www.cawrecycles.org/about-us)
 
-The Sustainable Berkeley Lab team collaborates with partners site-wide to reduce the Lab’s climate, waste, and water footprint.
+Founded in 1977, Californians Against Waste is a non-profit environmental research and advocacy organization that identifies, develops, promotes and monitors policy solutions to pollution and conservation problems posing a threat to public health and the environment. Californians Against Waste's history has demonstrated it to be the nation's oldest, largest and most effective non-profit environmental organization advocating for the implementation of waste reduction and recycling policies and programs.
+
+#### [Electronics TakeBack Coalition](http://www.electronicstakeback.com/get-involved/)
+
+The Electronics TakeBack Coalition (ETBC) promotes green design and responsible recycling in the electronics industry. Our goal is to protect the health and well being of electronics users, workers, and the communities where electronics are produced and discarded by requiring consumer electronics manufacturers and brand owners to take full responsibility for the life cycle of their products, through effective public policy requirements or enforceable agreements.
 
 ---
 
@@ -42,3 +46,7 @@ Award-winning student-led course at UC Berkeley focused on equity and environmen
 #### [SERC](https://serc.berkeley.edu/)
 
 The Student Environmental Resource Center at UC Berkeley cultivates a collaborative space to strengthen the collective effectiveness of the sustainability community, and provides resources for students to actualize their visions of a more equitable, socially just, and resilient future.
+
+#### [LBL Sustainable Berkeley Lab](https://sbl.lbl.gov/)
+
+The Sustainable Berkeley Lab team collaborates with partners site-wide to reduce the Lab’s climate, waste, and water footprint.
