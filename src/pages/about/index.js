@@ -14,7 +14,7 @@ export default class Index extends React.Component {
         <section className="section">
         <div className="container">
             <div className="content">
-                <h1>Context</h1>
+                <h1>About</h1>
                 <p>
                   Out of the 2.4 million tons of electronics that were disposed of in 2009, only 25 percent were collected for recycling.  “Out of sight, out of mind” is what embodies most people’s attitude towards their waste in the United States, including their electronics.  The fact our waste magically disappears every week and general unawareness of the processes that generate our material goods contributes psychologically to the throw-away culture of the US.   Because we take for granted the raw materials that go into creating the electronics we use and the fact that we never have to consider our trash again after it disappears in a wastebin, this enables us to continue consuming and disposing without considering “reduce” or “re-use” and only occasionally “recycle" which an increasing problem in the electronics sector because there is only a finite amount of raw materials we can mine to meet the increasing demand for electronic goods. 
                 </p>
