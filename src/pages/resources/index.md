@@ -8,7 +8,7 @@ title: Resources
 
 #### [Berkeley Community Conservation Centers](http://berkeleyrecycling.org/index.php)
 
-Community Conservation Centers (CCC) has been operating Berkeley Recycling at Second and Gilman Streets in Berkeley since September 1982. CCC operates programs that buy recyclables and provides for convenient drop-off of recyclables. The City-owned facility is also home to the Ecology Center, which operates the residential curbside pick-up program. The City of Berkeley operates the commercial pick-up program which collects recyclables from commercial establishments throughout the city. Together, the three programs collect about 18,000 tons per year of various materials, including newspaper, cardboard, glass and plastic bottles, scrap metals and household hazardous waste. The following are programs operated by CCC.
+Community Conservation Centers (CCC) has been operating Berkeley Recycling at Second and Gilman Streets in Berkeley since September 1982. CCC operates programs that buy recyclables and provides for convenient drop-off of recyclables. The City-owned facility is also home to the Ecology Center, which operates the residential curbside pick-up program. The City of Berkeley operates the commercial pick-up program which collects recyclables from commercial establishments throughout the city. Together, the three programs collect about 18,000 tons per year of various materials, including newspaper, cardboard, glass and plastic bottles, scrap metals and household hazardous waste.
 
 #### [CalRecycle](https://www.calrecycle.ca.gov/electronics)
 

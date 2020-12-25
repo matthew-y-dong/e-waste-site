@@ -7,3 +7,18 @@ Website Link: https://e-waste-info.web.app/
 Code: https://github.com/matthew-y-dong/e-waste-site
 
 Template Credit: https://github.com/netlify-templates/gatsby-starter-netlify-cms
+
+# Development instructions
+
+Dependencies: Node.JS, Gatsby, Firebase
+
+## Local setup
+
+1. Run `npm install`
+1. `npm run develop` for local web server
+
+# Deployment instructions
+
+1. 
+
+[TODO] Integrate with Travis for CI / CD
