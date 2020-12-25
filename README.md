@@ -19,6 +19,7 @@ Dependencies: Node.JS, Gatsby, Firebase
 
 # Deployment instructions
 
-1. 
+1. `npm run build`
+1. `firebase deploy`
 
 [TODO] Integrate with Travis for CI / CD
